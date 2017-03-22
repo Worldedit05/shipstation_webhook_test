@@ -1,0 +1,30 @@
+{
+  "name": "shipstation_webhook_test",
+  "version": "1.0.0",
+  "description": "A testing app to help troubleshoot webhook issues from ShipStation's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Worldedit05/shipstation_webhook_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Worldedit05/shipstation_webhook_test/issues"
+  },
+  "homepage": "https://github.com/Worldedit05/shipstation_webhook_test#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
